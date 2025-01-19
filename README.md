@@ -125,6 +125,8 @@ Neural Network:
 Loss curves for different configurations (e.g., learning rates, weight initializations).
 
 Example plots: 
+
+
 ![005 500](https://github.com/user-attachments/assets/778e53f1-752b-479d-8792-9ebe78e47cac)
 ![005 200 normal](https://github.com/user-attachments/assets/5c5f917a-3389-4f7e-81d6-b91c93377ab5)
 ![01 500](https://github.com/user-attachments/assets/520107b4-8d2a-4a7e-9d22-d8d76d6ccd26)
