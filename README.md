@@ -126,10 +126,14 @@ Loss curves for different configurations (e.g., learning rates, weight initializ
 
 Example plots: 
 
-
 ![005 500](https://github.com/user-attachments/assets/778e53f1-752b-479d-8792-9ebe78e47cac)
+
+![100 05](https://github.com/user-attachments/assets/6141d1d6-ec27-4bd2-92cc-413365d49701)
+
+![05 20](https://github.com/user-attachments/assets/3ab66640-bb96-4d80-aa41-38418acaeab3)
+
+
 ![005 200 normal](https://github.com/user-attachments/assets/5c5f917a-3389-4f7e-81d6-b91c93377ab5)
-![01 500](https://github.com/user-attachments/assets/520107b4-8d2a-4a7e-9d22-d8d76d6ccd26)
 
 
 
