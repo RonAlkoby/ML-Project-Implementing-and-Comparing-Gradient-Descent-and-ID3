@@ -124,11 +124,19 @@ Neural Network:
 
 Loss curves for different configurations (e.g., learning rates, weight initializations).
 
-Example plots: 005_500.jpg, 005_200_normal.jpg, 01_500.jpg.
+Example plots: 
+![005 500](https://github.com/user-attachments/assets/778e53f1-752b-479d-8792-9ebe78e47cac)
+![005 200 normal](https://github.com/user-attachments/assets/5c5f917a-3389-4f7e-81d6-b91c93377ab5)
+![01 500](https://github.com/user-attachments/assets/520107b4-8d2a-4a7e-9d22-d8d76d6ccd26)
+
+
+
 
 Decision Tree:
 
-Visualization of the decision tree (DT1.jpg).
+Visualization of the decision tree (DT1.jpg):
+![DT1](https://github.com/user-attachments/assets/a125ee31-1a9b-4a53-b1db-29db6d1b7190)
+
 
 Usage Notes
 
