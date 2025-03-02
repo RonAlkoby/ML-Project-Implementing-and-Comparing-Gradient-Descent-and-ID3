@@ -1,6 +1,6 @@
 # README
 
-## Project: Implementing and Comparing Gradient Descent and ID3
+## Project: Implementing and Comparing single-layer neural network and ID3
 
 ### Overview
 This project implements and compares two fundamental machine learning algorithms: a single-layer neural network using gradient descent and the ID3 algorithm for decision trees. The objective is to understand their performance and characteristics by applying them to the Wisconsin breast cancer dataset.
